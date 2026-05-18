@@ -1,46 +1,27 @@
 # Hi, I'm Arpeli 👋
-### Systems & Quantitative Engineer 
+### Systems & Quantitative Engineer (In Training)
 
-I specialize in low-level systems programming, memory-constrained architectures, and applying rigorous mathematical modeling to computing infrastructure. My engineering philosophy focuses on bridging the gap between abstract algorithmic theory and bare-metal hardware execution.
-
----
-
-## 🛠️ Core Focus & Research Interests
-
-* **Systems Engineering:** ISO C11/C17, Modern C++ (C++20/C++23), Linux Internals, and Kernel-User Space Interactivity.
-* **Architecture-Aware DSA:** Designing data structures optimized for CPU cache locality, minimal memory fragmentation, and deterministic execution.
-* **Quantitative Computing:** Leveraging advanced probability, statistics, and linear algebra to build high-throughput simulators and low-latency algorithmic engines.
+I am a university student specializing in the intersection of low-level systems programming, computer architecture, and mathematical modeling. I am currently executing a focused sprint to master bare-metal engineering principles from the ground up.
 
 ---
 
-## 🏗️ Flagship Engineering Repositories
+## 🎯 Current Focus (May 2026)
 
-### 🏛️ [low-level-mastery](https://github.com/arpeli/low-level-mastery)
-*A pristine, standard-compliant implementation sandbox mapping out core computer science foundations.*
-* **Focus:** Complete technical execution of K.N. King's *C Programming: A Modern Approach* and mathematical data structures from Cormen's *CLRS*.
-* **Standards:** Strict terminal-based compilation workflows using `-Wall -Wextra -Werror -Wpedantic` and rigorous Valgrind dynamic memory profiling.
-
-### 📂 The Labyrinth VFS *(In Active Design)*
-*A high-performance, user-space Virtual File System written entirely in standard C.*
-* **Focus:** Simulating hardware disk blocks, implementing custom memory allocation strategies, and managing custom Inode and User File Descriptor Tables (UFDT).
-
-### 📊 Vector-X *(In Active Design)*
-*A highly optimized mathematical execution and distribution simulator written in Modern C++.*
-* **Focus:** Multi-threaded computational models, cache-localized matrix operations, and hardware acceleration using Data-Oriented Design (DOD).
+* **Language Foundations:** Deep-diving into ISO C11/C17 using K. N. King's *C Programming: A Modern Approach*.
+* **Algorithmic Rigor:** Studying architecture-aware data structures and computational complexity via Cormen's *CLRS*.
+* **Academic Alignment:** Actively connecting these principles to my current university coursework in Mathematics, Statistics, and Data Communications.
 
 ---
 
-## ⚡ Technical Toolbelt
+## 🛠️ The Toolbelt (Under Construction)
 
-* **Languages:** C, C++, Python, Go, Bash
-* **Tooling & Environment:** Linux, GCC/Clang, Makefiles, Valgrind, GDB, Git/GitHub
-* **Editor Paradigm:** Keyboard-driven development (Vim/Neovim)
+* **Languages:** C (Current Focus), Python, Bash
+* **Environment:** Linux Terminal, GCC, Git/GitHub
+* **Workflow:** Shifting toward keyboard-driven, IDE-free development workflows.
 
 ---
 
-## 📬 Connect With Me
+## 📬 Contact
 
 * **Email:** [arielboutcher.dev@outlook.com](mailto:arielboutcher.dev@outlook.com)
 * **GitHub:** [@arpeli](https://github.com/arpeli)
-
-> "Low entropy implies maximum order and deterministic efficiency."
