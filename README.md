@@ -1,53 +1,46 @@
-# 🌌 Hello, I'm @arpeli
+# Hi, I'm Arpeli 👋
+### Systems & Quantitative Engineer 
 
-### "Systems are just constellations of logic."
+I specialize in low-level systems programming, memory-constrained architectures, and applying rigorous mathematical modeling to computing infrastructure. My engineering philosophy focuses on bridging the gap between abstract algorithmic theory and bare-metal hardware execution.
 
-I am a software explorer focused on the intersection of low-level systems and the grand scale of the cosmos. Whether I'm optimizing a kernel or analyzing stellar data, I'm driven by a desire to understand how complex environments, both digital and celestial, function under the hood.
+---
 
---
+## 🛠️ Core Focus & Research Interests
 
-## 🛠 My Tech Stack & Toolkit
+* **Systems Engineering:** ISO C11/C17, Modern C++ (C++20/C++23), Linux Internals, and Kernel-User Space Interactivity.
+* **Architecture-Aware DSA:** Designing data structures optimized for CPU cache locality, minimal memory fragmentation, and deterministic execution.
+* **Quantitative Computing:** Leveraging advanced probability, statistics, and linear algebra to build high-throughput simulators and low-latency algorithmic engines.
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Systems/Low-Level** | `C` · `C++` · `Go` · `Linux Kernel` |
-| **Application/Data** | `Python` (NumPy/SciPy) · `Java` (JVM Internals) |
-| **Environments** | `Arch Linux` · `Bash` · `Docker` |
-| **Interests** | `Distributed Systems` · `Orbital Mechanics` · `Poetry` |
+---
 
---
+## 🏗️ Flagship Engineering Repositories
 
-## 🔭 Current Research & Learning
+### 🏛️ [low-level-mastery](https://github.com/arpeli/low-level-mastery)
+*A pristine, standard-compliant implementation sandbox mapping out core computer science foundations.*
+* **Focus:** Complete technical execution of K.N. King's *C Programming: A Modern Approach* and mathematical data structures from Cormen's *CLRS*.
+* **Standards:** Strict terminal-based compilation workflows using `-Wall -Wextra -Werror -Wpedantic` and rigorous Valgrind dynamic memory profiling.
 
-* **🌱 Systems Mastery:** Fine-tuning my memory management in **C/C++** and exploring concurrency patterns in **Go**.
-* **🐍 Science with Python:** Leveraging Python for astrophysical simulations and data visualization.
-* **☕ Robust Logic:** Using **Java** to build scalable, high-level abstractions that complement my low-level work.
-* **🐧 Open Source:** Actively seeking projects that improve the Linux ecosystem or provide tools for the scientific community.
+### 📂 The Labyrinth VFS *(In Active Design)*
+*A high-performance, user-space Virtual File System written entirely in standard C.*
+* **Focus:** Simulating hardware disk blocks, implementing custom memory allocation strategies, and managing custom Inode and User File Descriptor Tables (UFDT).
 
---
+### 📊 Vector-X *(In Active Design)*
+*A highly optimized mathematical execution and distribution simulator written in Modern C++.*
+* **Focus:** Multi-threaded computational models, cache-localized matrix operations, and hardware acceleration using Data-Oriented Design (DOD).
 
-## 🎮 Beyond the Code
+---
 
-When I'm not debugging or compiling, you can find me:
-* **Gaming:** Exploring procedurally generated universes or mastering high-stakes strategy games.
-* **Poetry:** Writing verses that try to capture the silence of the vacuum and the noise of the machine.
-* **Stargazing:** Tracking the stars and reminding myself of our place in the cosmic timeline.
+## ⚡ Technical Toolbelt
 
---
+* **Languages:** C, C++, Python, Go, Bash
+* **Tooling & Environment:** Linux, GCC/Clang, Makefiles, Valgrind, GDB, Git/GitHub
+* **Editor Paradigm:** Keyboard-driven development (Vim/Neovim)
 
-## 📬 Connect with Me
+---
 
-I'm always open to collaborating on Linux-based open source tools or discussing the best way to simulate an $N$-body problem.
+## 📬 Connect With Me
 
-* **Email:** [ab@arpeli.com](mailto:ab@arpeli.com)
+* **Email:** [arielboutcher.dev@outlook.com](mailto:arielboutcher.dev@outlook.com)
+* **GitHub:** [@arpeli](https://github.com/arpeli)
 
---
-
-## ⚡ Fun Fact
-
-> **Entropy always wins.** The Earth will eventually be destroyed by astrophysical phenomena regardless of what we do. Our code might be ephemeral, but the logic we leave behind is our way of shouting into the void.
-
-<!---
-arpeli/arpeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "Low entropy implies maximum order and deterministic efficiency."
