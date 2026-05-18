@@ -22,6 +22,4 @@ I am a university student specializing in the intersection of low-level systems 
 ---
 
 ## 📬 Contact
-
-* **Email:** [arielboutcher.dev@outlook.com](mailto:arielboutcher.dev@outlook.com)
 * **GitHub:** [@arpeli](https://github.com/arpeli)
